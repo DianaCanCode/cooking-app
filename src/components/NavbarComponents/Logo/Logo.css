@@ -1,0 +1,15 @@
+.logo {
+    font-family: 'Averia Serif Libre', sans-serif;
+    font-style:bold italic; 
+    font-size:18px;
+    margin-left:40px;
+    margin-top:30px;
+    padding:0px;
+    color: #fcf2f2; 
+    text-shadow: 1px 1px rgba(241, 70, 121, 1); 
+}
+
+.recipeTitle {
+    padding:0px;
+    margin:6px;
+}

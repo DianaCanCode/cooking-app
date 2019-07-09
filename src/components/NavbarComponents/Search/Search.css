@@ -1,0 +1,17 @@
+.search {
+    margin-left:800px;
+    margin-top:10px;
+    color:blue; 
+    width:200px;
+    height:30px;
+    background-color: #FCF2F2; 
+    border-radius: 8px;
+    box-shadow: 1px 1px black;
+    font-size:35px;
+    
+}
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
