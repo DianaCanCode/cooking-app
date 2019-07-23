@@ -1,0 +1,31 @@
+.recipePage {
+    height:1000px;
+    width:auto; 
+}
+.recipeContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.recipetitle {
+    font-size:48px;
+    font-family: 'Averia Serif Libre', sans-serif;
+    font-style: bold italic; 
+    color:#F14679;
+    text-shadow: 2px 2px black; 
+    margin-top:5px;
+}
+.description {
+    width:900px;
+    height:1000px; 
+    background-color: #FCF2F2; 
+    margin-top:40px;
+    border-radius: 50px;
+    padding:30px; 
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.recipeImage {
+    border-radius: 50px;
+}

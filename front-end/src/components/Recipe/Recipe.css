@@ -1,0 +1,19 @@
+.tile {
+    height: 280px;
+    width: 210px; 
+    margin:50px; 
+    margin-top:160px;
+    margin-left:80px;
+}
+.image {
+    width:270px; 
+    height:280px;
+    border-radius: 50px;
+    box-shadow: 2px 2px black; 
+}
+.title {
+    text-align: center; 
+    margin-top:2px;
+    font-style: italic; 
+
+}

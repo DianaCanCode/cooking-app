@@ -1,0 +1,43 @@
+.searchBar {
+    color:blue; 
+    width:300px;
+    height:30px;
+    background-color: #FCF2F2; 
+    border-radius: 25px;
+    box-shadow: 1px 1px black;
+    font-size:35px;
+}
+
+.button1 {
+    color:white; 
+    width:300px;
+    height:40px;
+    background-color: #F14679; 
+    border-radius: 50px;
+    box-shadow: 1px 1px black;
+    margin-top:200px;
+    font-size:29px;
+    font-family: 'Averia Serif Libre', sans-serif;
+    font-style: bold italic; 
+    opacity:1!important;
+}
+.form {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    width:340px;
+    height:500px;
+    background-color: #FCF2F2; 
+    border-radius: 50px;
+    position: absolute;
+    margin:20px;
+    margin-top:50px;
+}
+.title1 {
+    font-size:30px;
+    font-family: 'Averia Serif Libre', sans-serif;
+    font-style:bold     ; 
+    color: #F14679; 
+    text-shadow: 1px 1px black; 
+}
